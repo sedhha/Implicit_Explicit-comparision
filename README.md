@@ -1,1 +1,1 @@
-# Implicit-Explicit-Homogenous-parabolic-PDE-by-Discretizing
+# Computational fluid dynamics for solving parabolic partial differential equations using implicit and explicit methods.
